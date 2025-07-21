@@ -13,5 +13,5 @@ print("sum of maths,sst,punjabi,science,hindi,english")
 
 perc = (sum/600)*100
 
-print(end="percentage matrk =")
+print(end="percentage mark =")
 print(perc)
