@@ -1,8 +1,8 @@
-test_dict = {'Akshita': 2, 'likes':2, 'color':2, 'lavender':12}
+test_dict = {'Akshita': 21, 'likes':21, 'color':2, 'pastel blue':2}
 
 print("the orignal dictionary:" + str(test_dict))
 
-K = 2
+K = 21
 
 res = 0 
 for key in test_dict:
