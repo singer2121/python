@@ -12,7 +12,7 @@ class RestaurantOrderManagement:
         # A dictionary to store the menu items and their prices
         self.menu_items = {
             "FRIES MEAL": 2,
-            "LUNCH MEAL": 2,
+            "LUNCH MEAL": 3,
             "BURGER MEAL": 3,
             "PIZZA MEAL": 4,
             "CHEESE BURGER": 2.5,
